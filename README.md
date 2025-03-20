@@ -1,1 +1,1 @@
-## Hi, my name is Nasrul Huda. 
+## Hi, I'm Nasrul Huda. 
