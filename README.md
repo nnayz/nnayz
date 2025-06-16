@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Nasrul from Hamburg, Germany. <br><br>- I'm currently learning PyTorch.<br>- I'm currently pursuing my Masters in Data Science and AI.<br>- In my free time i read, play, sing, etc. and ofcourse code !! xD</p>
+<p align="left">I'm Nasrul. <br><br>- I'm currently learning PyTorch.<br>- I'm currently pursuing my Masters in Data Science and AI.<br>- In my free time i read, play, sing, etc. and ofcourse code !! xD</p>
 
 ###
 
