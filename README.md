@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">I'm Nasrul. <br><br>- I'm currently learning PyTorch.<br>- I'm currently pursuing my Masters in Data Science and AI.<br>- Know more about me <a href="https://nasrul.info">Click</a></p>
+<p align="left">I'm Nasrul. <br><br>- I like deep neural nets.<br>- I'm currently pursuing my Masters in Data Science and AI.<br>- Know more about me <a href="https://nasrul.info">Click</a></p>
 
 ###
