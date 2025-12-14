@@ -11,7 +11,7 @@
 ###
 
 <!-- Navbar -->
-<div align="center" style="margin: 24px 0;">
+<div align="center" style="margin: 24px 0; display: flex">
 
   <a href="https://nasrul.info"
      style="margin: 0 28px; text-decoration: none; font-weight: 600; color: #0969da;">
