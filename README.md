@@ -4,15 +4,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nnayz.nnayz&"  />
 </div>
 
+<div style="font-size: 20px; font-weight: 700; margin-bottom: 10px;">
+  Hello, I am Nasrul.
+</div>
+
 ###
 
 <!-- Navbar -->
-<div align="center" style="margin-bottom: 24px;">
-
-  <!-- Name -->
-  <div style="font-size: 20px; font-weight: 700; margin-bottom: 10px;">
-    Hello, I am Nasrul.
-  </div>
+<div align="center" style="margin-bottom: 24px; display: flex; justify-content: space-evenly">
 
   <!-- Links -->
   <div>
