@@ -11,34 +11,31 @@
 ###
 
 <!-- Navbar -->
-<div align="center" style="margin: 24px 0; display: flex">
+<div align="center" style="margin: 24px 0; white-space: nowrap;">
 
   <a href="https://nasrul.info"
-     style="margin: 0 28px; text-decoration: none; font-weight: 600; color: #0969da;">
+     style="display: inline-block; margin: 0 32px; text-decoration: none; font-weight: 600; color: #0969da;">
     Me
   </a>
-
   <a href="https://github.com/nnayz"
-     style="margin: 0 28px; text-decoration: none; font-weight: 600; color: #0969da;">
+     style="display: inline-block; margin: 0 32px; text-decoration: none; font-weight: 600; color: #0969da;">
     GitHub
   </a>
-
   <a href="https://nasrul.info/work"
-     style="margin: 0 28px; text-decoration: none; font-weight: 600; color: #0969da;">
+     style="display: inline-block; margin: 0 32px; text-decoration: none; font-weight: 600; color: #0969da;">
     Work
   </a>
-
   <a href="https://www.linkedin.com/in/nasrul-hudaa/"
-     style="margin: 0 28px; text-decoration: none; font-weight: 600; color: #0969da;">
+     style="display: inline-block; margin: 0 32px; text-decoration: none; font-weight: 600; color: #0969da;">
     LinkedIn
   </a>
-
   <a href="https://nasrul.info/writing"
-     style="margin: 0 28px; text-decoration: none; font-weight: 600; color: #0969da;">
+     style="display: inline-block; margin: 0 32px; text-decoration: none; font-weight: 600; color: #0969da;">
     Writing
   </a>
 
 </div>
+
 
 
 ###
