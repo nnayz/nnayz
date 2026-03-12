@@ -6,7 +6,8 @@
 
 
 <div style="font-size: 20px; font-weight: 700; margin-bottom: 10px;">
-  Hello, I am Nasrul.
+  Hello, I am Nasrul.<br />
+  Currently learning Rust because why not! :D
 </div>
 
 ###
